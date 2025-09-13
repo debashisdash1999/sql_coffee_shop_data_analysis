@@ -41,6 +41,9 @@ Stores transaction records.
 - `total` (FLOAT)
 - `rating` (INT)
 
+## ERD
+![ERD](https://github.com/user-attachments/assets/9fc14cc5-af90-40a9-9259-77f15ca998b6)
+
 ---
 
 ## Key Business Questions
