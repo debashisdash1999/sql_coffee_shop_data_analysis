@@ -102,4 +102,24 @@ Stores transaction records.
 
 ---
 
+## Recommendations for Expansion
+
+Based on the analysis of population, customer base, revenue, and rent affordability, the following top 3 cities are recommended for expanding Monday Coffee’s outlets:
+
+### City 1: Pune
+- The average rent per customer is very low, making it cost-effective.
+- It has the highest total revenue, indicating strong demand for coffee products.
+- The average sales per customer are also high, showing good purchasing behavior.
+
+### City 2: Delhi
+- It has the highest estimated coffee consumers at **7.7 million**, offering a large potential market.
+- The highest total number of customers at **68**, reflecting strong customer engagement.
+- The average rent per customer is **₹330**, which is still affordable and sustainable for expansion.
+
+### City 3: Jaipur
+- It has the highest number of customers at **69**, indicating good market traction.
+- The average rent per customer is very low at **₹156**, making it an attractive and cost-efficient location.
+- The average sales per customer is **₹11,600**, suggesting good sales potential and profitability.
+
+
 This project will help **Monday Coffee** make data-driven decisions while planning their expansion strategy.
