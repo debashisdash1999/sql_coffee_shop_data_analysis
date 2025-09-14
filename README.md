@@ -1,6 +1,6 @@
 # Monday Coffee Business Expansion Analysis
 
-## Overview
+## Overview (follow the .sql file along with this readme for better understanding)
 This project is focused on helping **Monday Coffee**, an online coffee and merchandise retailer, analyze its historical data to recommend expansion locations.  
 Monday Coffee, founded in January 2023, has experienced rapid growth and now plans to open three new outlets in major cities across India.  
 
